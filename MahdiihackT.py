@@ -9,10 +9,6 @@ import os, sys
 def menu():
 
   print("""
-
-  os.system("clear")
-os.system("figlet SirCy | lolcat")
-
                  Coded by : #Devil034
     Channel Telegram : T.me/Mahdiihack   
             </>  Team : MahdiihackTeam  <\>
