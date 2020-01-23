@@ -1,5 +1,5 @@
 #!/usr/local/bin/python
-# code by Ari
+# code by SirCy
 # xploit-db
 
 
@@ -10,7 +10,9 @@ def menu():
 
   print("""
 
-  
+  os.system("clear")
+os.system("figlet SirCy | lolcat")
+
                  Coded by : #Devil034
     Channel Telegram : T.me/Mahdiihack   
             </>  Team : MahdiihackTeam  <\>
